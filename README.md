@@ -1,2 +1,3 @@
-# Airport_app
-A project simulating the departures board at the Warsaw Chopin Airport
+# Projekt LOTNISKO
+
+PROJEKT ZALICZENIOWY Z PRZEDMIOTU PJAVA
